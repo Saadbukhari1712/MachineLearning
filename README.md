@@ -37,5 +37,5 @@ To explore or run the code locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Saadbukhari1712/machine-learning.git
-   cd machine-learning
+   git clone https://github.com/Saadbukhari1712/MachineLearning.git
+   cd MachineLearning
